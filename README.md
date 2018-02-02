@@ -12,15 +12,15 @@
     IntelCPUMonitor
     AmdCpuMonitor
 - GPUSensors
-    RadeonMonitor  for ATI/AMD Radeon card (temperature only)
-    GeforceSensors for Nvidia card Fermi, Kepler, Maxwell, Pascal
-    NVClockX for Nvidia Geforce 7xxx, 8xxx, Tesla
-    X3100 for IntelX3100 (at GM950 chipset)
+    - RadeonMonitor  for ATI/AMD Radeon card (temperature only)
+    - GeforceSensors for Nvidia card Fermi, Kepler, Maxwell, Pascal
+    - NVClockX for Nvidia Geforce 7xxx, 8xxx, Tesla
+    - X3100 for IntelX3100 (at GM950 chipset)
 - LPC chip sensors, motherboard parameters like FAM, Voltages, temperatures
-   ITEIT87x  for chips ITE 87xx, 86xx, usually present on Gigabyte motherboards
-   W836x  for chips Winbond/Nuvoton 83xxx, NCT67xx, usually present on ASUS motherboards
-   F718x  for chips Fintek 
-   PC8739x for chip SMC
+   - ITEIT87x  for chips ITE 87xx, 86xx, usually present on Gigabyte motherboards
+   - W836x  for chips Winbond/Nuvoton 83xxx, NCT67xx, usually present on ASUS motherboards
+   - F718x  for chips Fintek 
+   - PC8739x for chip SMC
 
 ### HWSensors Project (c) 2010 netkas, slice, usr-sse2, kozlek, navi, RehabMan and others. All rights reserved. NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor. EFIMounter script Credit:Rehabman 
 
