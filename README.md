@@ -36,7 +36,10 @@ Working 10.6 to 10.13
 
 #### NOTE; The Launch release, HWMonitorSMC.app automatically starts at logging on
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 479a26c7e8365b82150f73932ce167ecc3560f24
 Visit: [HWSensors Source Forge](https://sourceforge.net/projects/hwsensors3.hwsensors.p/files/?source=navbar)
 
 ### Packager chris1111
