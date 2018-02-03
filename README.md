@@ -36,7 +36,6 @@ Working 10.6 to 10.13
 
 #### NOTE; The Launch release, HWMonitorSMC.app automatically starts at logging on
 
-You can download [third-party installer from chris1111](https://github.com/chris1111/HWSensors-V3-r86) for the latest version of HWSensors
 
 Visit: [HWSensors Source Forge](https://sourceforge.net/projects/hwsensors3.hwsensors.p/files/?source=navbar)
 
