@@ -22,7 +22,7 @@
    - F718x  for chips Fintek 
    - PC8739x for chip SMC
 
-### HWSensors Project (c) 2010 netkas, slice, usr-sse2, kozlek, navi, RehabMan and others. All rights reserved. NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor. EFIMounter script Credit:Rehabman 
+### HWSensors Project (c) 2010 netkas, slice, usr-sse2, kozlek, navi, RehabMan and others. All rights reserved. NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor. EFIMounter script Credit:Clover team 
 
 ### Usage: (ESP) 
 Option 1 Extensions ➔ (ESP) EFI System Partition
@@ -34,7 +34,6 @@ Working 10.6 to 10.13
 
 #### Download the Latest Release [Download ➤ HWSensors V-3-r86](https://github.com/chris1111/HWSensors-V3-r86/releases)
 
-#### NOTE; The Launch release, HWMonitorSMC.app automatically starts at logging on
 
 Visit: [HWSensors Source Forge](https://sourceforge.net/projects/hwsensors3.hwsensors.p/files/?source=navbar)
 
