@@ -26,7 +26,7 @@
 
 ### Usage: (ESP) 
 Option 1 Extensions ➔ (ESP) EFI System Partition
-Working for 10.8  to 10.13
+Working for 10.6  to 10.13
 
 ### Usage: (S/L/E)
 Option 2 Extensions ➔ (S/L/E) System Library Extensions
