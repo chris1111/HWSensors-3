@@ -32,7 +32,7 @@ Working for 10.6  to 10.13
 Option 2 Extensions ➔ (S/L/E) System Library Extensions
 Working 10.6 to 10.13
 
-#### Download the Final Release [Download ➤ HWSensors V-3-r86](https://github.com/chris1111/HWSensors-V3-r86/releases/tag/V-3-Final)
+#### Download the Release [Download ➤ HWSensors V-3-r89](https://github.com/chris1111/HWSensors-V3-r89/releases/tag/v4)
 
 
 Visit: [HWSensors Source Forge](https://sourceforge.net/projects/hwsensors3.hwsensors.p/files/?source=navbar)
