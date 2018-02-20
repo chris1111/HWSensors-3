@@ -1,4 +1,4 @@
-# HWSensors-V-r89
+# HWSensors-V1-r89
 
 ### This is a Mac OS X Package
 
