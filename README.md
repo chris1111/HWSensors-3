@@ -5,7 +5,7 @@
 ### HWSensors branch based on FakeSMC-3.x
 
 ### The package includes:
-* FakeSMC.kext version 3.x
+- FakeSMC.kext version 3.x
 - HWMonitorSMC.app V1, V2
 - ACPIMonitor.kext for custom making ACPI methods to access to hardware
 - VoodooBatterySMC for laptop battery monitoring
