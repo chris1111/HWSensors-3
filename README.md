@@ -1,4 +1,4 @@
-# HWSensors-3-V1-r89
+# HWSensors-3-V2-r89
 
 ### This is a Mac OS X Package
 
@@ -6,6 +6,7 @@
 
 ### The package includes:
 * FakeSMC.kext version 3.x
+- HWMonitorSMC.app V1, V2
 - ACPIMonitor.kext for custom making ACPI methods to access to hardware
 - VoodooBatterySMC for laptop battery monitoring
 - CPU sensors:
@@ -26,11 +27,11 @@
 
 ### Usage: (ESP) 
 Option 1 Extensions ➔ (ESP) EFI System Partition
-Working for 10.6  to 10.13
+Working for 10.7  to 10.13
 
 ### Usage: (S/L/E)
 Option 2 Extensions ➔ (S/L/E) System Library Extensions
-Working 10.6 to 10.13
+Working 10.7 to 10.13
 
 #### Download the Release [Download ➤ HWSensors-3 V1-r89](https://github.com/chris1111/HWSensors-V1-r89/releases/tag/v-1)
 
