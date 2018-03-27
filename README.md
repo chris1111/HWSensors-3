@@ -1,4 +1,4 @@
-# HWSensors-3-V2-r89
+# HWSensors-3 V-2-r115
 
 ### This is a Mac OS X Package
 
@@ -25,15 +25,19 @@
 
 ### HWSensors Project (c) 2010 netkas, slice, usr-sse2, kozlek, navi, RehabMan and others. All rights reserved. NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor. EFIMounter script Credit:Clover team 
 
-### Usage: (ESP) 
-Option 1 Extensions ➔ (ESP) EFI System Partition
-Working for 10.7  to 10.13
+### Usage: 
+   - Select your Applications HWSensors: V1 or V2
+   - Select your Kexts-Kernel Extensions 
+   - Select your Install Options: System Library Extensions or EFI System Partition
 
-### Usage: (S/L/E)
-Option 2 Extensions ➔ (S/L/E) System Library Extensions
-Working 10.7 to 10.13
+### Exemple Usage Intel CPU, AMD Graphics, EFI System Partition Installation:
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/esp_ca10.jpg) 
 
-#### Download the Release [Download ➤ HWSensors-3 V2-r89](https://github.com/chris1111/HWSensors-3-V2-r89/releases/tag/V2)
+
+### Exemple Usage Intel CPU, AMD Graphics, System Library Extensions Installation: 
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/sle-ca10.jpg)
+
+#### Download the Release [Download ➤ HWSensors-3 V-2-r115]()
 
 
 Visit: [HWSensors Source Forge](https://sourceforge.net/projects/hwsensors3.hwsensors.p/files/?source=navbar)
