@@ -1,7 +1,8 @@
 # HWSensors-3 V-2-r115
 
 ### This is a Mac OS X Package
-
+    - working 10.10 to 10.13
+    
 ### HWSensors branch based on FakeSMC-3.x
 
 ### The package includes:
