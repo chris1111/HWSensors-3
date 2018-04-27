@@ -37,7 +37,7 @@
 ### Exemple Usage Intel CPU, AMD Graphics, Install ➤ System Library Extensions: 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/sle-ca11.png)
 
-#### Download the Release [Download ➤ HWSensors-3 V-2-r116](https://github.com/chris1111/HWSensors-3/releases/tag/R116)
+#### Download the Release [Download ➤ HWSensors-3 V-2-r128](https://github.com/chris1111/HWSensors-3/releases/tag/R128)
 
 
 Visit: [HWSensors Source Forge](https://sourceforge.net/projects/hwsensors3.hwsensors.p/files/?source=navbar)
