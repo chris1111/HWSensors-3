@@ -23,7 +23,9 @@
    - F718x  for chips Fintek 
    - PC8739x for chip SMC
 
-### HWSensors Project (c) 2010 netkas, slice, usr-sse2, kozlek, navi, RehabMan and others. All rights reserved. NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor. EFIMounter script Credit:Clover team 
+### HWSensors Project (c) 2010 netkas, slice, usr-sse2, kozlek, navi, RehabMan and others. All rights reserved. 
+- NOTE: FakeSMC & Plugins starting from v915 provides additional sensors information to HWMonitor. 
+- EFIMounter script Credit:Clover team 
 
 ### Usage: 
    - Select your Applications HWSensors: V1 or V2
